@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #8b9dc3;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+.hero {
+  background: #f7f7f7;
+  padding: 2em;
+  text-align: center;
+}
+.highlights {
+  display: flex;
+  justify-content: space-around;
+  padding: 2em;
+}
+.highlights div {
+  width: 30%;
+}
+footer {
+  text-align: center;
+  background: #8b9dc3;
+  color: white;
+  padding: 1em;
+}
